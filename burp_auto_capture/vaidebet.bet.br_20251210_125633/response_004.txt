@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Content-Type: application/json
+Date: Thu, 04 Dec 2025 16:55:03 GMT
+Cloudfront-Viewer-Postal-Code: 74000
+Vary: Accept-Encoding
+X-App-Fe-Client-Version: 0
+Log_correlation_id: eefe1bb7-fe9a-4e65-b803-94b7028b74d6
+X-Geoip-Country-Code: BR
+X-Cache: Miss from cloudfront
+Via: 1.1 295efc09aa1bc7b69522cf716e6d4942.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GIG52-P1
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: HbO8iWAW3rKjQVJ7VCaJwYCQv9qIMHAvqSc3s1R_H3WO2zdtgKCW8w==
+
+{"success":true,"responseCodes":[{"responseCode":1,"responseKey":"SUCCESS","responseMessage":"com.pronetgaming.odin.userservice.services.CustomerGtagService"}],"data":{"synchedToGA":"1"}}
