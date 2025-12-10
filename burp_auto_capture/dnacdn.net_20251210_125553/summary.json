@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20251210_125553", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/dnacdn.net_20251210_125553/request_001.txt", 
+      "url": "https://dnacdn.net:443/dna", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/dnacdn.net_20251210_125553/response_001.txt", 
+      "timestamp": 1765157334914
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/dnacdn.net_20251210_125553/request_002.txt", 
+      "url": "https://dnacdn.net:443/dna", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/dnacdn.net_20251210_125553/response_002.txt", 
+      "timestamp": 1765157372592
+    }
+  ], 
+  "host": "dnacdn.net", 
+  "total_requests": 2
+}
