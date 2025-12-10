@@ -1,0 +1,14 @@
+HTTP/2 200 OK
+Content-Type: application/json
+Date: Thu, 04 Dec 2025 16:55:02 GMT
+Cloudfront-Viewer-Postal-Code: 74000
+Vary: Accept-Encoding
+X-App-Fe-Client-Version: 0
+Log_correlation_id: 686b96b2-d246-477c-aadf-422985c6e203
+X-Cache: Miss from cloudfront
+Via: 1.1 295efc09aa1bc7b69522cf716e6d4942.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GIG52-P1
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: 6mApNldDrlAGI-421kI9BaIf6BbyTEEpptrHgCo9ROKKXi71Vp_I2w==
+
+{"success":true,"responseCodes":[],"data":{"customerId":68742632,"dailySessionLimit":0,"weeklySessionLimit":0,"monthlySessionLimit":0,"dailySessionDuration":0,"weeklySessionDuration":0,"monthlySessionDuration":0}}
