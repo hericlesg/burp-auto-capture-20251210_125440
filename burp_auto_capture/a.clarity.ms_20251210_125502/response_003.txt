@@ -1,0 +1,9 @@
+HTTP/1.1 204 No Content
+Server: nginx
+Date: Wed, 10 Dec 2025 15:54:53 GMT
+Connection: close
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Vary: Origin
+Request-Context: appId=cid-v1:9c7c879b-c51a-427e-9701-218438da5f81
+
