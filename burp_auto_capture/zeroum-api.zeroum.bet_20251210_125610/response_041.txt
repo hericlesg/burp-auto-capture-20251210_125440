@@ -1,0 +1,24 @@
+HTTP/2 200 OK
+Content-Type: application/json
+Vary: Accept-Encoding
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Vary: Origin
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Length: 316
+Expires: Mon, 08 Dec 2025 01:29:44 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Mon, 08 Dec 2025 01:29:44 GMT
+Set-Cookie: AWSALB=+t9zoaee5sLa4dzMWIyrBw6A+ddMAZwN0//WCf/bsfaMgkYZzOto03vcToTZtajmMmU7mIRWzNMcWiuS1IRYxMuWWBhs+hOh+jZT0+VOfe2TIUUOFhh4Mtbh3Fv1; Expires=Mon, 15 Dec 2025 01:29:44 GMT; Path=/
+Set-Cookie: AWSALBCORS=+t9zoaee5sLa4dzMWIyrBw6A+ddMAZwN0//WCf/bsfaMgkYZzOto03vcToTZtajmMmU7mIRWzNMcWiuS1IRYxMuWWBhs+hOh+jZT0+VOfe2TIUUOFhh4Mtbh3Fv1; Expires=Mon, 15 Dec 2025 01:29:44 GMT; Path=/; SameSite=None; Secure
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=139
+Server-Timing: origin; dur=17
+Server-Timing: ak_p; desc="1765157384089_34899011_905100425_15584_5494_34_0_15";dur=1
+
+{"negotiateVersion":1,"connectionId":"0i6DdxpYY24dRorHyXVjMw","connectionToken":"ekc9RmkKdtae2c5uxdatHw","availableTransports":[{"transport":"WebSockets","transferFormats":["Text","Binary"]},{"transport":"ServerSentEvents","transferFormats":["Text"]},{"transport":"LongPolling","transferFormats":["Text","Binary"]}]}
