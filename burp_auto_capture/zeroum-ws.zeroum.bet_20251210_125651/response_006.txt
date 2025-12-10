@@ -1,0 +1,10 @@
+HTTP/1.1 101 Switching Protocols
+Date: Mon, 08 Dec 2025 01:29:36 GMT
+Connection: upgrade
+Server: nginx
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Upgrade: websocket
+Vary: Origin
+Sec-WebSocket-Accept: +PcEAfO9S1LYYj2X1WJQgovFNEA=
+
