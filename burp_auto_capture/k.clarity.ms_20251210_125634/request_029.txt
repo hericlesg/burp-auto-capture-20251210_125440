@@ -1,0 +1,19 @@
+POST /collect HTTP/1.1
+Host: k.clarity.ms
+Cookie: MUID=08E9BC3E447E66CB00ADAA7845346719
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.zeroum.bet/
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 2833
+Origin: https://www.zeroum.bet
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+Connection: close
+
+{"e":["0.8.41",5,7231,4227,"rjz72wzpkd","16g1myi","1nctnaw",1,1,1,0,"https://www.zeroum.bet/"],"a":[[7557,2,3,1,0],[7562,2,4,1,0],[9307,12,689,1056,138],[9323,12,689,1060,139],[9338,12,689,1089,151],[9370,12,383,1168,192],[9370,12,383,1179,200],[9385,12,1022,1202,215],[9418,12,306,1264,253],[9433,12,306,1282,264],[9449,12,87,1334,286],[9464,12,87,1382,306],[9480,12,87,1451,331],[9480,12,87,1492,342],[11451,26,"pagehide",0],[7231,4,1,1515,3628,1515,917,0,0,1055,138,7200,0,5573,1055,138,5573,null,null,null,1031,300,57,1054,138,5557,null],[11458,0,2,7599,3,9,4,22,5,10,25,28],[11458,36,6,[8202,0,9205,0,9425,0,9726,0,10103,1,10220,0,11110,0,11223,0]]],"p":[[8202,6,3218,3142,"*T","â«",3229,3158,[4,5],3240,3174,[4,5],3251,3190,[4,5],3262,3206,[4,5]],[9205,6,3218,3142,"*T","â«",3229,3158,[4,5],3240,3174,[4,5],3251,3190,[4,5],3262,3206,[4,5]],[9425,6,1049,751,1048,"SWIPER-SLIDE","_ngcontent-ng-c131763204=","style=width: 1211px; margin-right: 8px;","role=group","class=ng-star-inserted",1050,751,1049,[5,6,7,8],"class=ng-star-inserted swiper-slide-prev",1051,751,1050,[5,6,7,8],"class=ng-star-inserted swiper-slide-active",1052,751,1051,[5,6,7,8],"class=ng-star-inserted swiper-slide-next"],[9425,6,1793,1431,1792,"DIV","class=swiper-wrapper","part=wrapper","id=swiper-wrapper-31c349e2ffbf4239","aria-live=polite","style=transform: translate3d(-749.1px, 0px, 0px); transition-duration: 300ms;",2120,1798,2119,"SPAN","part=bullet","class=swiper-pagination-bullet","tabindex=0","role=button",2121,1798,2120,[14],"part=bullet-active","class=swiper-pagination-bullet swiper-pagination-bullet-active",[17,18],"aria-current=true"],[9726,6,1793,1431,1792,"DIV","class=swiper-wrapper","part=wrapper","id=swiper-wrapper-31c349e2ffbf4239","aria-live=polite","style=transform: translate3d(-749.1px, 0px, 0px); transition-duration: 0ms; transition-delay: 0ms;"],[10103,6,395,319,394,"SWIPER-SLIDE","class=ips-banner-slide ng-star-inserted","style=margin-right: 10px;","role=group",396,319,395,[5],"class=ips-banner-slide ng-star-inserted swiper-slide-prev",[7,8],397,319,396,[5],"class=ips-banner-slide ng-star-inserted swiper-slide-active",[7,8],398,319,397,[5],"class=ips-banner-slide ng-star-inserted swiper-slide-next",[7,8]],[10104,6,743,517,742,"DIV","class=swiper-wrapper","part=wrapper","id=swiper-wrapper-9578ee109ea66c578","aria-live=off","style=transform: translate3d(-990px, 0px, 0px); transition-duration: 1000ms;"],[10220,6,3218,3142,"*T","â«",3229,3158,[4,5],3240,3174,[4,5],3251,3190,[4,5],3262,3206,[4,5]],[11110,6,743,517,742,"DIV","class=swiper-wrapper","part=wrapper","id=swiper-wrapper-9578ee109ea66c578","aria-live=off","style=transform: translate3d(-990px, 0px, 0px); transition-duration: 0ms; transition-delay: 0ms;"],[11223,6,3218,3142,"*T","â«",3229,3158,[4,5],3240,3174,[4,5],3251,3190,[4,5],3262,3206,[4,5]]]}
