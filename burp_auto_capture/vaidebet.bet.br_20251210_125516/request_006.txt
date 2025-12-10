@@ -1,0 +1,19 @@
+GET /api/user/accounts/get_accounts HTTP/2
+Host: vaidebet.bet.br
+Cookie: NCC=PTB; lang=ptb; _fbp=fb.1.1764867153492.59659586892345529; fb_utm_source=undefined; _gcl_au=1.1.1255460384.1764867154; _ga_833TYZP13Q=GS2.1.s1764867153$o1$g0$t1764867153$j60$l0$h0; _ga=GA1.1.39417592.1764867154; _ga_9DV344ZVDG=GS2.1.s1764867155$o1$g0$t1764867155$j60$l0$h0; _ga_PJ5V85MP8Z=GS2.1.s1764867154$o1$g0$t1764867267$j60$l0$h0; __smartico_ls_id=03b646e2-de30-4066-bf3f-e9c156e9ab4d; __smartico_ls_create_t=1764867305708; __smartico_ls_use_t=1764867305708
+S7oryo9stv: 1401EACDDEC90BFF50EC9644C78BF3B7
+Sec-Ch-Ua: 
+X-Pgtradername: 537
+X-Pgdevice: d
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.134 Safari/537.36
+Accept: application/json, text/plain, */*
+X-Pgusername: 2025066612295
+Sec-Ch-Ua-Platform: ""
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://vaidebet.bet.br/ptb/bet/main
+Accept-Encoding: gzip, deflate
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
