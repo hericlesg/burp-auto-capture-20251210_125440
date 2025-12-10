@@ -1,0 +1,18 @@
+POST /collect HTTP/1.1
+Host: a.clarity.ms
+Cookie: MUID=08E9BC3E447E66CB00ADAA7845346719
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.zeroum.bet/
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 1093
+Origin: https://www.zeroum.bet
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Te: trailers
+Connection: close
+
+{"e":["0.8.41",3,344,2323,"rjz72wzpkd","16g1myi","4nldmp",1,0,0,0,"https://www.zeroum.bet/"],"a":[[344,4,1,1311,5589,1311,947,0,0,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null,null,null],[2667,1,4,["www.facebook.com"]],[2667,0,2,59024,3,1,4,15,5,3,25,6],[2667,36,6,[666,0,1673,0]]],"p":[[666,6,351,267,350,"SWIPER-SLIDE","class=ips-banner-slide ng-star-inserted","style=margin-right: 10px;","role=group",352,267,351,[5],"class=ips-banner-slide ng-star-inserted swiper-slide-prev",[7,8],353,267,352,[5],"class=ips-banner-slide ng-star-inserted swiper-slide-active",[7,8],354,267,353,[5],"class=ips-banner-slide ng-star-inserted swiper-slide-next",[7,8]],[666,6,657,458,656,"DIV","class=swiper-wrapper","part=wrapper","id=swiper-wrapper-bfeb3c810a388b141","aria-live=off","style=transition-duration: 1000ms; transform: translate3d(-1980px, 0px, 0px);"],[1673,6,657,458,656,"DIV","class=swiper-wrapper","part=wrapper","id=swiper-wrapper-bfeb3c810a388b141","aria-live=off","style=transition-duration: 0ms; transform: translate3d(-1980px, 0px, 0px); transition-delay: 0ms;"]]}
