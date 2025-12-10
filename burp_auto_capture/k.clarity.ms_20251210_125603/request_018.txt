@@ -1,0 +1,18 @@
+POST /collect HTTP/1.1
+Host: k.clarity.ms
+Cookie: MUID=08E9BC3E447E66CB00ADAA7845346719
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.zeroum.bet/
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 1229
+Origin: https://www.zeroum.bet
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Te: trailers
+Connection: close
+
+{"e":["0.8.41",2,107,1033,"rjz72wzpkd","16g1myi","o8dbw1",1,0,0,0,"https://www.zeroum.bet/"],"a":[[808,31,"XMLHttpRequest.responseText getter: responseText is only available if responseType is '' or 'text'.",5,3,"XMLHttpRequest.prototype.send/a.onreadystatechange@https://www.zeroum.bet/ line 846 > injectedScript:5:3\nqe@https://www.zeroum.bet/polyfills.49a520efa55df881.js:1:12088\ninvokeTask@https://www.zeroum.bet/polyfills.49a520efa55df881.js:1:7856\nrunTask@https://www.zeroum.bet/polyfills.49a520efa55df881.js:1:3200\ninvokeTask@https://www.zeroum.bet/polyfills.49a520efa55df881.js:1:8907\nZ@https://www.zeroum.bet/polyfills.49a520efa55df881.js:1:21457\nN@https://www.zeroum.bet/polyfills.49a520efa55df881.js:1:21751\nF@https://www.zeroum.bet/polyfills.49a520efa55df881.js:1:22016\n","https://www.zeroum.bet/ line 846 > injectedScript"],[107,4,1,1498,5123,1498,917,0,0,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null,null,null],[1140,1,4,["dmp.digvert.com","gum.criteo.com","ads.mythad.com","www.google.com.br","sslwidget.criteo.com","www.facebook.com","logsdk.kwai-pro.com"],31,["5ia8jg1o3.6e7idc22i"],32,["4f3587v3p.45745b2j5"]],[1140,0,2,686,3,69,4,108,5,14,25,42],[1140,36,6,[280,0,552,41,666,0]]]}
