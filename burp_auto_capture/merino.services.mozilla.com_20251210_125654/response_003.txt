@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Via: 1.1 google, 1.1 varnish, 1.1 varnish
+X-Request-Id: 1b3c5ee8d1ef4f87b5dfb9cfe0e3a125
+Accept-Ranges: bytes
+Cache-Control: private, max-age=300
+Server: nginx
+Strict-Transport-Security: max-age=31536000
+Content-Type: application/json
+Date: Wed, 10 Dec 2025 15:55:27 GMT
+X-Served-By: cache-gig2250031-GIG, cache-gig2250056-GIG
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1765382127.023506,VS0,VE187
+Vary: Accept-Encoding
+Content-Length: 417
+
+{"suggestions":[{"title":"","url":"https://merino.services.mozilla.com/","provider":"geolocation","is_sponsored":false,"score":0.0,"custom_details":{"geolocation":{"country":"Brazil","country_code":"BR","region_code":"GO","region":"GoiÃ¡s","city":"GoiÃ¢nia","location":{"latitude":-16.6802,"longitude":-49.2564,"radius":5}}}}],"request_id":"1b3c5ee8d1ef4f87b5dfb9cfe0e3a125","client_variants":[],"server_variants":[]}
