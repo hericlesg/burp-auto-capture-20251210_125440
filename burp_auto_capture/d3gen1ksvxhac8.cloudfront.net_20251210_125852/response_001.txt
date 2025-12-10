@@ -1,0 +1,206 @@
+HTTP/2 200 OK
+Content-Type: application/json
+Date: Mon, 08 Dec 2025 01:29:36 GMT
+Cache-Control: public, max-age=300
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Vary: Origin, Accept-Encoding
+X-Cache: Miss from cloudfront
+Via: 1.1 c8123788c094e7e2c19bb141ae312110.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GRU3-P12
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: as4FF049jKTCknHAvokmwFS0NdV2JxUItZaSnMCWU91G3wNHpYmT2w==
+
+{
+  "tournaments": [
+    {
+      "tournamentInstanceId": 706943,
+      "publicMeta": {
+        "featured": true,
+        "image_url": "https://d3l7suk1kl9rwh.cloudfront.net/68e98169da7197bce2c820-544x216Imgparalistadetorneios1.webp",
+        "image_url2": "https://d3l7suk1kl9rwh.cloudfront.net/2f0dcf8e2eff0280ec45e0-920x200Imgparaolobbydotorneio1.webp",
+        "description": "<p>â <strong>Principais InformaÃ§Ãµes</strong></p> <ul> <li>Jogue os slots da <strong>Peter & Sons</strong> disponÃ­veis na plataforma participante.</li> <li>Participe do <strong>Torneio Peter & Sons â Especial Dezembro</strong> e concorra a uma premiaÃ§Ã£o total de <strong>R$ 150.000,00!</strong></li> <li><strong>PerÃ­odo:</strong> de 2 a 31 de dezembro.</li> <li><strong>PremiaÃ§Ã£o automÃ¡tica:</strong> crÃ©ditos depositados diretamente no saldo dos vencedores ao final do torneio.</li> <li><strong>Opt-in obrigatÃ³rio</strong> para participar.</li> <li><strong>Aposta mÃ­nima:</strong> R$ 1,00.</li> <li><strong>MecÃ¢nica de Pontos:</strong> cada R$ 0,01 apostado = 1 ponto no torneio.</li> <li><strong>Provedor:</strong> Peter & Sons.</li> </ul> <br> <p>ð® <strong>Jogos Qualificados</strong></p> <ul> <li>Barbarossa â Winter Edition</li> <li>Frozen Age â Winter Edition</li> <li>Legend of Musashi â Winter Edition</li> <li>Book of Books</li> <li>Ghostfather â Awakened</li> </ul> <br> <p>ð <strong>Regras do Torneio</strong></p> <ul> <li>O torneio Ã© vÃ¡lido apenas entre <strong>2 e 31 de dezembro</strong>.</li> <li>Somente apostas realizadas nos jogos participantes contam pontos.</li> <li><strong>A cada R$ 0,01 apostado, o jogador recebe 1 ponto</strong> no ranking.</li> <li>Os prÃªmios serÃ£o <strong>creditados automaticamente</strong> ao tÃ©rmino do torneio.</li> <li><strong>CritÃ©rio de desempate:</strong> vantagem para quem atingir a pontuaÃ§Ã£o primeiro.</li> <li>Tentativas de <strong>fraude ou comportamento irregular</strong> resultarÃ£o em desclassificaÃ§Ã£o imediata.</li> <li>A organizaÃ§Ã£o pode <strong>alterar ou cancelar</strong> o torneio em caso de necessidade.</li> <li>Ao participar, o jogador concorda com este regulamento e com os <strong>Termos e CondiÃ§Ãµes Gerais</strong> da plataforma.</li> </ul> <br> <p>ð <strong>PremiaÃ§Ã£o â R$ 150.000,00</strong></p> <p><strong>500 jogadores</strong> serÃ£o premiados conforme a distribuiÃ§Ã£o:</p> <ul> <li><strong>1Âº lugar:</strong> R$ 12.000</li> <li><strong>2Âº lugar:</strong> R$ 8.000</li> <li><strong>3Âº lugar:</strong> R$ 6.000</li> <li><strong>4Âº ao 10Âº:</strong> R$ 2.000 cada</li> <li><strong>11Âº ao 25Âº:</strong> R$ 1.200 cada</li> <li><strong>26Âº ao 50Âº:</strong> R$ 800 cada</li> <li><strong>51Âº ao 100Âº:</strong> R$ 400 cada</li> <li><strong>101Âº ao 250Âº:</strong> R$ 150 cada</li> <li><strong>251Âº ao 500Âº:</strong> R$ 60 cada</li> </ul> <br> <p>ð° <strong>Jogue com responsabilidade.</strong></p>\n",
+        "image_url2_mobile": "https://d3l7suk1kl9rwh.cloudfront.net/602eb1e655c473c5f40ca8-720x400Imgparaolobbydotorneio-mobile21.webp",
+        "custom_data_is_valid_json": false,
+        "custom_price_text": "R$ 0,01 = 1 ponto",
+        "name": "PETER AND SONS â ESPECIAL DEZEMBRO",
+        "show_other_users_score": true
+      },
+      "buyInAmount": 0,
+      "prizePool": 0,
+      "startTime": "04/12/2025 02:59:00",
+      "startTimeTs": 1764817140000,
+      "endTime": "01/01/2026 02:59:00",
+      "endTimeTs": 1767236340000,
+      "registrationCount": 4725,
+      "totalCount": 0,
+      "registrationType": 2,
+      "tournamentInstanceStatus": 3,
+      "tournamentType": 1,
+      "isUserRegistered": true,
+      "tournamentRegistrationStatus": 1,
+      "allowLateRegistration": true,
+      "playersMinCount": 1,
+      "playersMaxCount": 40000,
+      "durationMs": 2419200000,
+      "tournamentId": 3100,
+      "related_games": null,
+      "prizeStructure": null,
+      "tournamentPlayer": null,
+      "minScoreToWin": 1,
+      "hideLeaderboardsMinScores": false
+    },
+    {
+      "tournamentInstanceId": 706735,
+      "publicMeta": {
+        "featured": true,
+        "image_url": "https://d3l7suk1kl9rwh.cloudfront.net/8f0a356c138fb5579b5a3d-544x216Imgparalistadetorneios.webp",
+        "image_url2": "https://d3l7suk1kl9rwh.cloudfront.net/e40b56678612deee060763-920x200Imgparaolobbydotorneio.webp",
+        "description": "<p>â <strong>Principais InformaÃ§Ãµes</strong></p> <ul> <li>Jogue os slots da <strong>Evoplay</strong> disponÃ­veis na Zeroum.bet.</li> <li>Participe do <strong>Torneio Natal da Sorte â Evoplay 100K</strong> e concorra a <strong>R$ 100.000 em prÃªmios em dinheiro!</strong></li> <li><strong>PerÃ­odo:</strong> de 3 a 10 de dezembro.</li> <li><strong>PremiaÃ§Ã£o automÃ¡tica:</strong> valores creditados diretamente no saldo dos vencedores ao final do torneio.</li> <li><strong>Opt-in obrigatÃ³rio</strong> para participar.</li> <li><strong>Aposta mÃ­nima:</strong> R$ 1,00.</li> <li><strong>MecÃ¢nica de Pontos:</strong> cada R$ 0,01 apostado gera 1 ponto no ranking.</li> <li><strong>Provedor:</strong> Evoplay.</li> <li><strong>Total de premiados:</strong> 500 jogadores.</li> </ul> <br> <p>ð® <strong>Jogos Participantes</strong></p> <ul> <li>Piggy Bank: 3 Pots Bonanza</li> <li>Fogo Do Brasil 777</li> <li>Temple of Thunder II â Compra de BÃ´nus</li> <li>Hot Triple Sevens</li> <li>Penalty Shoot Out</li> </ul> <br> <p>ð <strong>Regras do Torneio</strong></p> <ul> <li>VÃ¡lido exclusivamente entre <strong>3 e 10 de dezembro</strong></li> <li>Somente apostas feitas nos jogos participantes acumulam pontos.</li> <li><strong>Cada R$ 0,01 apostado equivale a 1 ponto</strong> no ranking.</li> <li>Os prÃªmios serÃ£o <strong>creditados automaticamente</strong> apÃ³s o encerramento do torneio.</li> <li><strong>CritÃ©rio de desempate:</strong> quem alcanÃ§ar primeiro a pontuaÃ§Ã£o permanece na frente.</li> <li>Qualquer tentativa de fraude resulta em desclassificaÃ§Ã£o imediata.</li> <li>A organizaÃ§Ã£o pode <strong>alterar, suspender ou cancelar</strong> o torneio em caso de irregularidades.</li> <li>Ao participar, o jogador concorda com este regulamento e com os <strong>Termos e CondiÃ§Ãµes</strong> da plataforma.</li> </ul> <br> <p>ð <strong>PremiaÃ§Ã£o â R$ 100.000</strong></p> <ul> <li><strong>1Âº lugar:</strong> R$ 8.500</li> <li><strong>2Âº lugar:</strong> R$ 6.000</li> <li><strong>3Âº lugar:</strong> R$ 4.000</li> <li><strong>4Âº ao 10Âº:</strong> R$ 1.500 cada</li> <li><strong>11Âº ao 25Âº:</strong> R$ 900 cada</li> <li><strong>26Âº ao 50Âº:</strong> R$ 600 cada</li> <li><strong>51Âº ao 100Âº:</strong> R$ 300 cada</li> <li><strong>101Âº ao 250Âº:</strong> R$ 100 cada</li> <li><strong>251Âº ao 500Âº:</strong> R$ 50 cada</li> </ul> <br> <p>ð° <strong>Jogue com responsabilidade.</strong></p>\n",
+        "image_url2_mobile": "https://d3l7suk1kl9rwh.cloudfront.net/72ea4f2f2c3217a6639351-720x400Imgparaolobbydotorneio-mobile1.webp",
+        "custom_data_is_valid_json": false,
+        "custom_price_text": "R$ 0,01 = 1 ponto",
+        "name": "NATAL DA SORTE EVOPLAY",
+        "show_other_users_score": true
+      },
+      "buyInAmount": 0,
+      "prizePool": 0,
+      "startTime": "03/12/2025 14:20:00",
+      "startTimeTs": 1764771600000,
+      "endTime": "11/12/2025 02:20:00",
+      "endTimeTs": 1765419600000,
+      "registrationCount": 5343,
+      "totalCount": 0,
+      "registrationType": 2,
+      "tournamentInstanceStatus": 3,
+      "tournamentType": 1,
+      "isUserRegistered": true,
+      "tournamentRegistrationStatus": 1,
+      "allowLateRegistration": true,
+      "playersMinCount": 1,
+      "playersMaxCount": 40000,
+      "durationMs": 648000000,
+      "tournamentId": 3088,
+      "related_games": null,
+      "prizeStructure": null,
+      "tournamentPlayer": null,
+      "minScoreToWin": 1,
+      "hideLeaderboardsMinScores": false
+    },
+    {
+      "tournamentInstanceId": 705943,
+      "publicMeta": {
+        "featured": false,
+        "image_url": "https://d3l7suk1kl9rwh.cloudfront.net/91e4dc7781a8b9be0c06c7-DanielCoringa-PremioSemanal-544x216.webp",
+        "image_url2": "https://d3l7suk1kl9rwh.cloudfront.net/e5bfd07ecccc566613d490-DanielCoringa-PremioSemanal-920x200.webp",
+        "description": "<p> ðð¥ <strong>PromoÃ§Ã£o Semanal â \"Desafio das Super ODDs!\" </strong></p> <br> <p> ð° <strong>As 3 maiores mÃºltiplas ganham prÃªmios em dinheiro REAL!</strong></p> <br> <p> ð¸ <strong>PremiaÃ§Ã£o Semanal</strong></p> <ul> <li> ð <strong>1Âº Lugar â R$ 3.000,00 em dinheiro REAL</strong></li> <li> ð¥ <strong>2Âº Lugar â R$ 1.500,00</strong></li> <li> ð¥ <strong>3Âº Lugar â R$ 500,00</strong></li> <li> ð <strong>4Âº ao 10Âº Lugar â R$ 50,00 em Freebet</strong></li> </ul> <p><strong>Total: R$ +5.000 por semana em disputa</strong></p> <br> <p> ð§© <strong>MecÃ¢nica da PromoÃ§Ã£o</strong></p> <ul> <li> âï¸ Fazer uma <strong>aposta mÃºltipla de no mÃ­nimo R$ 10</strong>.</li> <li> âï¸ Aposta obrigatoriamente <strong>prÃ©-jogo</strong>.</li> <li> âï¸ Aposta deve ser feita com <strong>saldo real</strong>.</li> <li> âï¸ VÃ¡lido para <strong>qualquer modalidade</strong> do Sportsbook.</li> </ul> <p><strong> ð Ao final da semana (segunda â domingo), as 3 maiores odds vencedoras garantem os prÃªmios!</strong></p> <br> <p> ð <strong>Exemplo de Ranking</strong></p> <ul> <li>â¢ MÃºltipla de odd 412 â fica em 1Âº</li> <li>â¢ MÃºltipla de odd 280 â fica em 2Âº</li> <li>â¢ MÃºltipla de odd 120 â fica em 3Âº</li> </ul> <br> <p> ð <strong>PerÃ­odo da PromoÃ§Ã£o</strong></p> <ul> <li> ð <strong>Toda semana:</strong> Segunda 00h00 â Domingo 23h59</li> <li> ð <strong>Ranking divulgado toda segunda-feira</strong></li> </ul> <br> <p> ð <strong>Regulamento Completo</strong></p> <ul> <li>1. Participam apenas apostas mÃºltiplas prÃ©-jogo.</li> <li>2. Valor mÃ­nimo: <strong>R$ 10,00</strong></li> <li>3. Apenas apostas realizadas com <strong>saldo real</strong> sÃ£o vÃ¡lidas.</li> <li>4. PerÃ­odo vÃ¡lido: segunda a domingo.</li> <li>5. Apenas mÃºltiplas ganhas entram no ranking.</li> <li>6. O critÃ©rio de classificaÃ§Ã£o Ã© a <strong>odd final vencedora</strong>.</li> <li>7. Em caso de empate, vence a aposta feita primeiro (data/hora).</li> <li>8. PrÃªmios pagos em dinheiro real na conta do ganhador.</li> <li>9. PromoÃ§Ã£o vÃ¡lida para qualquer modalidade do Sportsbook.</li> <li>10. Limitado a <strong>1 premiaÃ§Ã£o por CPF por semana</strong>.</li> </ul> <br> <p> ð° <strong>Jogue com responsabilidade.</strong></p>",
+        "image_url2_mobile": "https://d3l7suk1kl9rwh.cloudfront.net/7299fde761c023cbe7d746-DanielCoringa-PremioSemanal-720x400.webp",
+        "custom_data_is_valid_json": false,
+        "name": "SEMANAL â DESAFIO DAS SUPER ODDS!",
+        "show_other_users_score": true
+      },
+      "buyInAmount": 0,
+      "prizePool": 0,
+      "startTime": "01/12/2025 12:00:00",
+      "startTimeTs": 1764590400000,
+      "endTime": "08/12/2025 03:00:00",
+      "endTimeTs": 1765162800000,
+      "registrationCount": 6511,
+      "totalCount": 0,
+      "registrationType": 2,
+      "tournamentInstanceStatus": 3,
+      "tournamentType": 1,
+      "isUserRegistered": true,
+      "tournamentRegistrationStatus": 1,
+      "allowLateRegistration": true,
+      "playersMinCount": 1,
+      "playersMaxCount": 10000,
+      "durationMs": 572400000,
+      "tournamentId": 3050,
+      "related_games": null,
+      "prizeStructure": null,
+      "tournamentPlayer": null,
+      "minScoreToWin": 1,
+      "hideLeaderboardsMinScores": false
+    },
+    {
+      "tournamentInstanceId": 707725,
+      "publicMeta": {
+        "featured": true,
+        "image_url": "https://d3l7suk1kl9rwh.cloudfront.net/1545859fca42780cda93c6-544x216Imgparalistadetorneios2.webp",
+        "image_url2": "https://d3l7suk1kl9rwh.cloudfront.net/0bc795830b75a36eb591a4-920x200Imgparaolobbydotorneio2.webp",
+        "description": "<p>â <strong>Principais InformaÃ§Ãµes</strong></p> <ul> <li>Jogue os slots da <strong>TADA </strong> disponÃ­veis na Zeroum.bet.</li> <li>Participe do <strong>Torneio TADA â Dezembro</strong> e concorra a <strong>R$ 50.000 em prÃªmios em dinheiro por torneio!</strong></li> <li><strong>PerÃ­odo do Torneio 1:</strong> de 6 a 14 de dezembro.</li> <li><strong>PremiaÃ§Ã£o automÃ¡tica:</strong> valores creditados diretamente no saldo dos vencedores ao final de cada torneio.</li> <li><strong>Opt-in obrigatÃ³rio</strong> para participar.</li> <li><strong>Aposta mÃ­nima:</strong> R$ 1,00.</li> <li><strong>MecÃ¢nica de Pontos:</strong> cada R$ 0,01 apostado gera 1 ponto no ranking.</li> <li><strong>Provedor:</strong> TADA.</li> <li><strong>Total de premiados:</strong> 500 jogadores.</li> </ul> <br> <p>ð® <strong>Jogos Participantes</strong></p> <ul> <li>Fortune Coins</li>JOIAS DA FORTUNA 500 <li></li> <li>ARARA DA SORTE</li> <li>Lucky Jaguar 2</li> <li>TIGRE DA SORTE</li> </ul> <br> <p>ð <strong>Regras do Torneio</strong></p> <ul> <li>VÃ¡lido exclusivamente no perÃ­odo: <strong>6 a 14 de dezembro.</strong></li> <li>Somente apostas feitas nos jogos participantes acumulam pontos.</li> <li><strong>Cada R$ 0,01 apostado equivale a 1 ponto</strong> no ranking.</li> <li>Os prÃªmios serÃ£o <strong>creditados automaticamente</strong> apÃ³s o encerramento do torneio.</li> <li><strong>CritÃ©rio de desempate:</strong> quem alcanÃ§ar primeiro a pontuaÃ§Ã£o permanece na frente.</li> <li>Qualquer tentativa de fraude resulta em desclassificaÃ§Ã£o imediata.</li> <li>A organizaÃ§Ã£o pode <strong>alterar, suspender ou cancelar</strong> o torneio em caso de irregularidades.</li> <li>Ao participar, o jogador concorda com este regulamento e com os <strong>Termos e CondiÃ§Ãµes</strong> da plataforma.</li> </ul> <br> <p>ð <strong>PremiaÃ§Ã£o â R$ 50.000 por Torneio</strong></p> <ul> <li><strong>1Âº lugar:</strong> R$ 6.000</li> <li><strong>2Âº lugar:</strong> R$ 4.000</li> <li><strong>3Âº lugar:</strong> R$ 3.000</li> <li><strong>4Âº ao 10Âº:</strong> R$ 1.000 cada</li> <li><strong>11Âº ao 25Âº:</strong> R$ 500 cada</li> <li><strong>26Âº ao 50Âº:</strong> R$ 300 cada</li> <li><strong>51Âº ao 100Âº:</strong> R$ 150 cada</li> <li><strong>Total de premiados:</strong> 100 jogadores</li> </ul> <br> <p>ð° <strong>Jogue com responsabilidade.</strong></p>\n",
+        "image_url2_mobile": "https://d3l7suk1kl9rwh.cloudfront.net/c8c9192412ba260296ffad-720x400Imgparaolobbydotorneio-mobile31.webp",
+        "custom_data_is_valid_json": false,
+        "custom_price_text": "R$ 0,01 = 1 ponto",
+        "name": "NATAL DA SORTE TADA",
+        "show_other_users_score": true
+      },
+      "buyInAmount": 0,
+      "prizePool": 0,
+      "startTime": "06/12/2025 03:40:00",
+      "startTimeTs": 1764992400000,
+      "endTime": "13/12/2025 03:40:00",
+      "endTimeTs": 1765597200000,
+      "registrationCount": 1902,
+      "totalCount": 0,
+      "registrationType": 2,
+      "tournamentInstanceStatus": 3,
+      "tournamentType": 1,
+      "isUserRegistered": false,
+      "tournamentRegistrationStatus": null,
+      "allowLateRegistration": true,
+      "playersMinCount": 1,
+      "playersMaxCount": 40000,
+      "durationMs": 604800000,
+      "tournamentId": 3121,
+      "related_games": null,
+      "prizeStructure": null,
+      "tournamentPlayer": null,
+      "minScoreToWin": 1,
+      "hideLeaderboardsMinScores": false
+    },
+    {
+      "tournamentInstanceId": 708230,
+      "publicMeta": {
+        "featured": false,
+        "image_url": "https://d3l7suk1kl9rwh.cloudfront.net/91e4dc7781a8b9be0c06c7-DanielCoringa-PremioSemanal-544x216.webp",
+        "image_url2": "https://d3l7suk1kl9rwh.cloudfront.net/e5bfd07ecccc566613d490-DanielCoringa-PremioSemanal-920x200.webp",
+        "description": "<p> ðð¥ <strong>PromoÃ§Ã£o Semanal â \"Desafio das Super ODDs!\" </strong></p> <br> <p> ð° <strong>As 3 maiores mÃºltiplas ganham prÃªmios em dinheiro REAL!</strong></p> <br> <p> ð¸ <strong>PremiaÃ§Ã£o Semanal</strong></p> <ul> <li> ð <strong>1Âº Lugar â R$ 3.000,00 em dinheiro REAL</strong></li> <li> ð¥ <strong>2Âº Lugar â R$ 1.500,00</strong></li> <li> ð¥ <strong>3Âº Lugar â R$ 500,00</strong></li> <li> ð <strong>4Âº ao 10Âº Lugar â R$ 50,00 em Freebet</strong></li> </ul> <p><strong>Total: R$ +5.000 por semana em disputa</strong></p> <br> <p> ð§© <strong>MecÃ¢nica da PromoÃ§Ã£o</strong></p> <ul> <li> âï¸ Fazer uma <strong>aposta mÃºltipla de no mÃ­nimo R$ 10</strong>.</li> <li> âï¸ Aposta obrigatoriamente <strong>prÃ©-jogo</strong>.</li> <li> âï¸ Aposta deve ser feita com <strong>saldo real</strong>.</li> <li> âï¸ VÃ¡lido para <strong>qualquer modalidade</strong> do Sportsbook.</li> </ul> <p><strong> ð Ao final da semana (segunda â domingo), as 3 maiores odds vencedoras garantem os prÃªmios!</strong></p> <br> <p> ð <strong>Exemplo de Ranking</strong></p> <ul> <li>â¢ MÃºltipla de odd 412 â fica em 1Âº</li> <li>â¢ MÃºltipla de odd 280 â fica em 2Âº</li> <li>â¢ MÃºltipla de odd 120 â fica em 3Âº</li> </ul> <br> <p> ð <strong>PerÃ­odo da PromoÃ§Ã£o</strong></p> <ul> <li> ð <strong>Toda semana:</strong> Segunda 00h00 â Domingo 23h59</li> <li> ð <strong>Ranking divulgado toda segunda-feira</strong></li> </ul> <br> <p> ð <strong>Regulamento Completo</strong></p> <ul> <li>1. Participam apenas apostas mÃºltiplas prÃ©-jogo.</li> <li>2. Valor mÃ­nimo: <strong>R$ 10,00</strong></li> <li>3. Apenas apostas realizadas com <strong>saldo real</strong> sÃ£o vÃ¡lidas.</li> <li>4. PerÃ­odo vÃ¡lido: segunda a domingo.</li> <li>5. Apenas mÃºltiplas ganhas entram no ranking.</li> <li>6. O critÃ©rio de classificaÃ§Ã£o Ã© a <strong>odd final vencedora</strong>.</li> <li>7. Em caso de empate, vence a aposta feita primeiro (data/hora).</li> <li>8. PrÃªmios pagos em dinheiro real na conta do ganhador.</li> <li>9. PromoÃ§Ã£o vÃ¡lida para qualquer modalidade do Sportsbook.</li> <li>10. Limitado a <strong>1 premiaÃ§Ã£o por CPF por semana</strong>.</li> </ul> <br> <p> ð° <strong>Jogue com responsabilidade.</strong></p>",
+        "image_url2_mobile": "https://d3l7suk1kl9rwh.cloudfront.net/7299fde761c023cbe7d746-DanielCoringa-PremioSemanal-720x400.webp",
+        "custom_data_is_valid_json": false,
+        "name": "SEMANAL â DESAFIO DAS SUPER ODDS!",
+        "show_other_users_score": true
+      },
+      "buyInAmount": 0,
+      "prizePool": 0,
+      "startTime": "08/12/2025 12:00:00",
+      "startTimeTs": 1765195200000,
+      "endTime": "15/12/2025 03:00:00",
+      "endTimeTs": 1765767600000,
+      "registrationCount": 310,
+      "totalCount": 0,
+      "registrationType": 2,
+      "tournamentInstanceStatus": 2,
+      "tournamentType": 1,
+      "isUserRegistered": false,
+      "tournamentRegistrationStatus": null,
+      "allowLateRegistration": true,
+      "playersMinCount": 1,
+      "playersMaxCount": 10000,
+      "durationMs": 572400000,
+      "tournamentId": 3050,
+      "related_games": null,
+      "prizeStructure": null,
+      "tournamentPlayer": null,
+      "minScoreToWin": 1,
+      "hideLeaderboardsMinScores": false
+    }
+  ],
+  "errCode": 0,
+  "errMsg": "",
+  "cid": 518,
+  "ts": 1765157329014,
+  "uuid": "ab64b39e-55cb-4580-b259-47d940d8be40",
+  "payload": null,
+  "duration": null
+}
