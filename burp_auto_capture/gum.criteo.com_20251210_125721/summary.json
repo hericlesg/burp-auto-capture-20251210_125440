@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20251210_125721", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/gum.criteo.com_20251210_125721/request_001.txt", 
+      "url": "https://gum.criteo.com:443/sid/json?origin=onetag&domain=zeroum.bet&sn=FirefoxSyncframe&so=undefined&topUrl=www.zeroum.bet&bundle=UJqX7F9pSG9MTmh5TEN3MnpDamFNcDc5Q2JDSGxqd3pGeXB0alRUWlJKV0JpSGR6U2ZZb3Y3T3VuVDNKTDF4T1VOQ0p6MDIxblA0NXpIJTJCR3VrMkpMZVljUkdaY3YwTUg0SmtoOCUyQm1NdHMwV2lZMVltUWNEVmdjWU81VGtVNXY1alVpTU5nS04zNCUyRkJKVTdyODRCM0kzWEFuUUw1WngyVkx3JTJCRTVZa3dOd0NJaE5HUSUzRA&info=F6K7d19pSG9MTmh5TEN3MnpDamFNcDc5Q2JNSDRveWQ2OXBzU3lVcGclMkJ3eVh5ZllDNXZKR282OVVzSWY4ZGd1MjFmNWFDVndjdG5xOVlMbUY1TG5pUjZ3OGxRJTNEJTNE&idsd=1241278024,1509719928&idsdctx=CEiCjnxXVU9uSEtGL3h0Si83ZUMrcllOUGFtMm9odlhrcGJFYWxVUkx1TDl2MG1nPXw,CEiCjnxXVU9uSEtGL3h0Si83ZUMrcllOUGFtMm9odlhrcGJFYWxVUkx1TDl2MG1nPXw", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/gum.criteo.com_20251210_125721/response_001.txt", 
+      "timestamp": 1765157376507
+    }
+  ], 
+  "host": "gum.criteo.com", 
+  "total_requests": 1
+}
