@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Vary: Origin
+Content-Length: 137
+Expires: Mon, 08 Dec 2025 01:29:31 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Mon, 08 Dec 2025 01:29:31 GMT
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=33
+Server-Timing: origin; dur=122
+Server-Timing: ak_p; desc="1765157371706_34899050_1714944060_15550_7150_24_27_15";dur=1
+
+[{"id":1,"name":"NÃ£o aceitar alteraÃ§Ãµes"},{"id":2,"name":"Aceitar somente mais altas"},{"id":3,"name":"Aceitar qualquer alteraÃ§Ã£o"}]
