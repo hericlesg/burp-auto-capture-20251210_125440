@@ -1,0 +1,14 @@
+HTTP/2 200 OK
+Content-Type: application/json
+Date: Thu, 04 Dec 2025 16:55:03 GMT
+Cloudfront-Viewer-Postal-Code: 74000
+Vary: Accept-Encoding
+X-App-Fe-Client-Version: 0
+Log_correlation_id: 44e37ad3-243b-43ed-98f1-4cef45a5d361
+X-Cache: Miss from cloudfront
+Via: 1.1 295efc09aa1bc7b69522cf716e6d4942.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GIG52-P1
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: e0v321L2cIwsmFyt51FB4pSXQrVV6mhC1jBtaJac9o0_5_krqeZMCA==
+
+{"success":true,"responseCodes":[{"responseCode":1,"responseKey":"SUCCESS","responseMessage":"com.pronetgaming.odin.userservice.services.LoginService"}],"data":{"customerId":68742632,"traderId":537,"languageId":23,"currencyId":12,"firstName":"VANESSA","secondName":"RANIELLY DE LIMA","surname":"SILVA","username":"feeyqcpiyc","code":"2025066612295","email":"pi******@gm******","phone":"5561931033367","lastLoginDate":1764867302000,"birthDate":"25-06-2002","address":"13","lastLogoutDate":1764863401000,"kycVerified":true,"kycStatus":4,"type":1,"emailPromotion":true,"postPromotion":true,"smsPromotion":true,"phonePromotion":true,"thirdPartyPromotion":true,"isPhoneVerified":false,"gender":"M","countryId":116,"hasUpdatedDetail":false,"countryAbbrvt":"BRA","balance":312.29,"grossBalance":312.29,"lockedBalance":0.0,"isActiveOtp":false,"inSiteMessageNotifications":true,"scbbPermission":true,"minimal":false,"vip":false}}
