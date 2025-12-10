@@ -1,0 +1,24 @@
+HTTP/2 200 OK
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Vary: Origin
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Length: 2683
+Expires: Mon, 08 Dec 2025 01:28:53 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Mon, 08 Dec 2025 01:28:53 GMT
+Set-Cookie: AWSALB=tRP0uGaHwDqszagsvApz0YDsiLt8d6mqUYROn26R6PtcJ4zXfExkmMbNBCezeTfXw1f5afBb34F/hRG6vNLg3PbCzDo/4C15IqhHp3tqKliMQ2QVrI/Zw4GnnZJW; Expires=Mon, 15 Dec 2025 01:28:53 GMT; Path=/
+Set-Cookie: AWSALBCORS=tRP0uGaHwDqszagsvApz0YDsiLt8d6mqUYROn26R6PtcJ4zXfExkmMbNBCezeTfXw1f5afBb34F/hRG6vNLg3PbCzDo/4C15IqhHp3tqKliMQ2QVrI/Zw4GnnZJW; Expires=Mon, 15 Dec 2025 01:28:53 GMT; Path=/; SameSite=None; Secure
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=19
+Server-Timing: origin; dur=323
+Server-Timing: ak_p; desc="1765157333397_34899015_1354409179_34319_6287_25_0_15";dur=1
+
+[{"ps":2001717,"pn":"Sweet Bonanza 1000","s":"sweetbonanza1000","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-11-10T23:26:26.546Z","p":"Vitoria","ba":40000.0000,"wa":1837120.0000,"i":"/assets/images/products/Thumb-SWEETBONANZA1000-Pragmatic.png","m":45.9},{"ps":2001717,"pn":"Sweet Bonanza 1000","s":"sweetbonanza1000","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-11-14T00:12:28.093Z","p":"Vitoria","ba":20000.0000,"wa":753980.0000,"i":"/assets/images/products/Thumb-SWEETBONANZA1000-Pragmatic.png","m":37.7},{"ps":2004492,"pn":"Gates of Olympus Super Scatter","s":"gates-of-olympus-super-scatter","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-11-14T01:47:10.644Z","p":"Vitoria","ba":200000.0000,"wa":692900.0000,"i":"/assets/images/products/Thumb-SuperScatter.webp","m":3.5},{"ps":2004492,"pn":"Gates of Olympus Super Scatter","s":"gates-of-olympus-super-scatter","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-11-14T01:23:01.725Z","p":"Vitoria","ba":200000.0000,"wa":645780.0000,"i":"/assets/images/products/Thumb-SuperScatter.webp","m":3.2},{"ps":2004492,"pn":"Gates of Olympus Super Scatter","s":"gates-of-olympus-super-scatter","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-11-13T21:11:25.752Z","p":"Vitoria","ba":180000.0000,"wa":493326.0000,"i":"/assets/images/products/Thumb-SuperScatter.webp","m":2.7},{"ps":2004492,"pn":"Gates of Olympus Super Scatter","s":"gates-of-olympus-super-scatter","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-11-13T21:14:16.577Z","p":"Vitoria","ba":50000.0000,"wa":361965.0000,"i":"/assets/images/products/Thumb-SuperScatter.webp","m":7.2},{"ps":2004492,"pn":"Gates of Olympus Super Scatter","s":"gates-of-olympus-super-scatter","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-11-14T02:08:26.483Z","p":"Vitoria","ba":100000.0000,"wa":363640.0000,"i":"/assets/images/products/Thumb-SuperScatter.webp","m":3.6},{"ps":2004492,"pn":"Gates of Olympus Super Scatter","s":"gates-of-olympus-super-scatter","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-11-14T12:58:19.724Z","p":"Vitoria","ba":50000.0000,"wa":263090.0000,"i":"/assets/images/products/Thumb-SuperScatter.webp","m":5.3},{"ps":2004492,"pn":"Gates of Olympus Super Scatter","s":"gates-of-olympus-super-scatter","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-11-14T02:15:02.568Z","p":"Vitoria","ba":100000.0000,"wa":300620.0000,"i":"/assets/images/products/Thumb-SuperScatter.webp","m":3.0},{"ps":2001837,"pn":"Futebol Fever","s":"futebolfever","prs":"pgsoft","prn":"PGSoft","bt":"2025-11-09T03:55:06.155Z","p":"Maria","ba":200.0000,"wa":200000.0000,"i":"/assets/images/products/Thumb-FutebolFever.webp","m":1000.0}]
