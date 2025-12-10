@@ -1,0 +1,24 @@
+HTTP/2 200 OK
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Vary: Origin
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Length: 1892
+Expires: Sun, 07 Dec 2025 00:38:43 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Sun, 07 Dec 2025 00:38:43 GMT
+Set-Cookie: AWSALB=1LyDmW0SpOQSzNWS0YdMaafe0nhCGO6knvbyX8aoqQ3WnLENwOT/2UHdYxN52RCP73kqB7vOnlbX0jTFM4ctQlcMPIjJBiwaujNX/d+kMCSUrZc0IvjFjz4TYUXR; Expires=Sun, 14 Dec 2025 00:38:42 GMT; Path=/
+Set-Cookie: AWSALBCORS=1LyDmW0SpOQSzNWS0YdMaafe0nhCGO6knvbyX8aoqQ3WnLENwOT/2UHdYxN52RCP73kqB7vOnlbX0jTFM4ctQlcMPIjJBiwaujNX/d+kMCSUrZc0IvjFjz4TYUXR; Expires=Sun, 14 Dec 2025 00:38:42 GMT; Path=/; SameSite=None; Secure
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=38
+Server-Timing: origin; dur=992
+Server-Timing: ak_p; desc="1765067922033_34899015_821812660_102851_3357_24_0_15";dur=1
+
+{"firstName":"Sara L***a S***s R*******s","dob":"03/11/1994","sessionToken":"%2bmKmHyNZYU1BPujhsecdeYkQM%2fmleajK%2f%2fwcBUIRlGwWIOKHwz2%2fOdaTPaYj1v1EFMqet4cK3I0UIdEnPJULqw%3d%3d","user":{"id":8907849,"email":"anamodeloia2@gmail.com","isEmailVerified":false,"currencyId":"BRL","userName":"U8907849","partnerId":180,"regionId":0,"cityId":0,"countryId":0,"gender":0,"genderName":"-","birthDate":"1994-11-03T00:00:00","firstName":"Sara","lastName":"Lucia Sales Rodrigues","nickName":"","documentNumber":"","phoneNumber":"+5511991332565","documentIssuedBy":"","address":"    ","mobileNumber":"+5511991332565","isMobileNumberVerified":false,"languageId":"pt","registrationIp":"191.121.207.224","creationTime":"2025-12-07T00:38:42.1340119Z","lastUpdateTime":"0001-01-01T00:00:00","token":"7f80323698bd47c7b5ef8bc4dd8ac2ca","emailOrMobile":null,"sendMail":true,"sendSms":true,"callToPhone":false,"sendPromotions":true,"isDocumentVerified":false,"kYCDocsStatus":0,"kYCStatus":0,"zipCode":"","info":null,"categoryId":1,"categoryName":null,"welcomeBonusActivationKey":null,"citizenship":null,"citizenshipName":"","jobArea":null,"currencySymbol":"R$ ","lastLogin":null,"lastLogout":null,"lastLoginIp":null,"resetPassword":false,"resetNickName":null,"acceptTermsConditions":false,"documentExpirationStatus":null,"ad":null,"adm":null,"timeZone":0.0,"taxNumber":"04187471219","street":null,"streetNumber":null,"complement":null,"referralCode":"fczhvgqP7hidrm8v5DFb","isReferralBlocked":false,"successfulDepositCount":0,"loginType":0,"isWithdrawalsBlocked":false,"deposits":null,"offerId":null,"offerTranslation":null,"offerDescriptionTranslation":null,"isUserUnsubscribe":false,"postRegistrationCompleted":false,"activityStatus":0,"requiredVerifications":[],"cityName":"","isTest":false,"district":null,"pendingLegalDocuments":[],"referFriendActive":false,"isSelfExcluded":false,"regulationMessage":null}}
