@@ -1,0 +1,19 @@
+POST /api/registration/update-step HTTP/2
+Host: zeroum-api.zeroum.bet
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+Accept: application/json, text/plain, */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.zeroum.bet/
+X-Language-Id: pt
+X-Timezone: -3
+Content-Type: application/json
+Content-Length: 592
+Origin: https://www.zeroum.bet
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Priority: u=0
+Te: trailers
+
+{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbF90b2tlbiI6IjU0MzFmNmY3LTU3NmQtNDc1My04NjUxLTUzMjM3M2NmYjRiOSIsImV4cCI6MTc2NTA2ODExNX0.y-6E_Pds7IBLUsI6NE7lZmM-d7GePcDqbjAzjxV1jzI","idToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbF90b2tlbiI6IjU0MzFmNmY3LTU3NmQtNDc1My04NjUxLTUzMjM3M2NmYjRiOSIsImV4cCI6MTc2NTA2ODExNX0.y-6E_Pds7IBLUsI6NE7lZmM-d7GePcDqbjAzjxV1jzI","flowStepId":484,"cpfNumber":"04187471219","refId":null,"utmSource":null,"utmMedium":null,"utmCampaign":null,"externalMarketingIdentifiers":{"fbp":"fb.1.1755192960875.1052514722","fbclid":null,"gclid":null}}
