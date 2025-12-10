@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Vary: Origin
+Content-Length: 54
+Expires: Mon, 08 Dec 2025 01:29:31 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Mon, 08 Dec 2025 01:29:31 GMT
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=22
+Server-Timing: origin; dur=121
+Server-Timing: ak_p; desc="1765157371677_34899050_1714944058_14327_7313_24_0_15";dur=1
+
+[{"id":1,"name":"Decimal"},{"id":3,"name":"American"}]
