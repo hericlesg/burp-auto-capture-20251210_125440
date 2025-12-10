@@ -1,0 +1,14 @@
+HTTP/2 200 OK
+Content-Type: application/json
+Date: Thu, 04 Dec 2025 16:55:04 GMT
+Cloudfront-Viewer-Postal-Code: 74000
+X-App-Fe-Client-Version: 0
+Log_correlation_id: aa3d1042-b80b-44d1-af27-3c45f6a45826
+Vary: Accept-Encoding
+X-Cache: Miss from cloudfront
+Via: 1.1 295efc09aa1bc7b69522cf716e6d4942.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GIG52-P1
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: 25IzSqYon21ApmB_ovSxv4lI09E4C12lYRULMULGMIBWrghKwnxTBw==
+
+{"success":true,"responseCodes":[{"responseCode":1,"responseKey":"SUCCESS","responseMessage":"com.pronetgaming.odin.userservice.services.CustomerAccountsService"}],"data":[{"customerAccountTypeId":1,"balance":312.29,"lockedBalance":0.0,"creditBalance":0.0,"grossBalance":312.29,"accountType":{"customerAccountTypeId":1,"code":"SRB","name":"Sport Real Balance","customerAccountMasterTypeCode":"S"}},{"customerAccountTypeId":2,"balance":0.0,"lockedBalance":0.0,"creditBalance":0.0,"accountType":{"customerAccountTypeId":2,"code":"SBB","name":"Sport Bonus Balance","customerAccountMasterTypeCode":"S"}},{"customerAccountTypeId":4,"balance":0.0,"lockedBalance":0.0,"creditBalance":0.0,"accountType":{"customerAccountTypeId":4,"code":"SFB","name":"Sport Freebet Balance","customerAccountMasterTypeCode":"S"}},{"customerAccountTypeId":9,"balance":0.0,"accountType":{"customerAccountTypeId":9,"code":"WB","name":"WinningBalance","customerAccountMasterTypeCode":"SC"}},{"customerAccountTypeId":6,"balance":0.0,"accountType":{"customerAccountTypeId":6,"code":"CBB","name":"CasinoBonusBal","customerAccountMasterTypeCode":"C"}}]}
