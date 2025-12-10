@@ -1,0 +1,12 @@
+HTTP/2 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Mon, 08 Dec 2025 01:29:35 GMT
+Server: Kestrel
+Cache-Control: no-cache, no-store, must-revalidate
+Expires: 0
+Pragma: no-cache
+Server-Processing-Duration-In-Ticks: 1065973
+Strict-Transport-Security: max-age=31536000; preload;
+Vary: Accept-Encoding
+
+{"sid":null,"removeSid":false,"bundle":"kR48hF9pSG9MTmh5TEN3MnpDamFNcDc5Q2JOcWtPQ2hDUjRvWXJ4bkRxdXliM0ZvNlVoSHFtMHZhWnNIaTFrUyUyQkFrdXN5TE1acE9ZRUJjSVJLOFEwZlRSRU9YUmF4JTJCWlVQJTJCVXAyTHdrbW9hQmpSWEtOQTg5ajlZSVdDQjhkMFpCMFR2bVdUUEZnM0g0aUFPeDdRWEFwV2M4eWx2ZndtVUZudW5MTGNYeURtayUyQlo5OCUzRA","info":"QJz_R19pSG9MTmh5TEN3MnpDamFNcDc5Q2JOcWtPQ2hDUjRvWXJ4bkRxdXliM0ZvNlVoSHFtMHZhWnNIaTFrUyUyQkFrdXNUenRNN05YdEhGUXRrZ0NnNnlHcFZwNExVdWYlMkJRZU02SGF3S2xwejdHMGMlM0Q","optout":false}
