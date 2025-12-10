@@ -1,0 +1,71 @@
+{
+  "capture_timestamp": "20251210_125549", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251210_125549/request_001.txt", 
+      "url": "https://zeroum-ws.zeroum.bet:443/basehub/negotiate?languageId=pt&timeZone=-3&negotiateVersion=1", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251210_125549/response_001.txt", 
+      "timestamp": 1765157277245
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251210_125549/request_002.txt", 
+      "url": "https://zeroum-ws.zeroum.bet:443/basehub?languageId=pt&timeZone=-3&id=dDPUXyEzlt7znMHCJp74qg", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251210_125549/response_002.txt", 
+      "timestamp": 1765157282134
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251210_125549/request_003.txt", 
+      "url": "https://zeroum-ws.zeroum.bet:443/basehub/negotiate?languageId=pt&timeZone=-3&negotiateVersion=1", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251210_125549/response_003.txt", 
+      "timestamp": 1765157334099
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251210_125549/request_004.txt", 
+      "url": "https://zeroum-ws.zeroum.bet:443/basehub?languageId=pt&timeZone=-3&id=p4ggWpIQmkkT9FRbDW7Qpw", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251210_125549/response_004.txt", 
+      "timestamp": 1765157361140
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251210_125549/request_005.txt", 
+      "url": "https://zeroum-ws.zeroum.bet:443/basehub/negotiate?languageId=pt&timeZone=-3&negotiateVersion=1", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251210_125549/response_005.txt", 
+      "timestamp": 1765157372238
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251210_125549/request_006.txt", 
+      "url": "https://zeroum-ws.zeroum.bet:443/basehub?languageId=pt&timeZone=-3&id=5UJ2SZR8Lp_sKDPWUQh_yA", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251210_125549/response_006.txt", 
+      "timestamp": 1765157376328
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251210_125549/request_007.txt", 
+      "url": "https://zeroum-ws.zeroum.bet:443/basehub/negotiate?languageId=pt&timeZone=-3&negotiateVersion=1", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251210_125549/response_007.txt", 
+      "timestamp": 1765157384419
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251210_125549/request_008.txt", 
+      "url": "https://zeroum-ws.zeroum.bet:443/basehub/negotiate?languageId=pt&timeZone=-3&negotiateVersion=1", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.bet_20251210_125549/response_008.txt", 
+      "timestamp": 1765382140365
+    }
+  ], 
+  "host": "zeroum-ws.zeroum.bet", 
+  "total_requests": 8
+}
