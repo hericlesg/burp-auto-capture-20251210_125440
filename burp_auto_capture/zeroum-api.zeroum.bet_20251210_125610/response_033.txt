@@ -1,0 +1,24 @@
+HTTP/2 200 OK
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Vary: Origin
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Length: 3726
+Expires: Mon, 08 Dec 2025 01:29:32 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Mon, 08 Dec 2025 01:29:32 GMT
+Set-Cookie: AWSALB=m1jjzgjDBenEoJEZzrUQKtWtoJJyXfUTpZaPwJAr99H1Gy48j4rzQ74Yb48gx87lz+9kAtIe+AvGkRzR+hbyoIiH8+DDj3I1NUmQvbZrjjpm19I/pyeEctrto2Mx; Expires=Mon, 15 Dec 2025 01:29:32 GMT; Path=/
+Set-Cookie: AWSALBCORS=m1jjzgjDBenEoJEZzrUQKtWtoJJyXfUTpZaPwJAr99H1Gy48j4rzQ74Yb48gx87lz+9kAtIe+AvGkRzR+hbyoIiH8+DDj3I1NUmQvbZrjjpm19I/pyeEctrto2Mx; Expires=Mon, 15 Dec 2025 01:29:32 GMT; Path=/; SameSite=None; Secure
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=35
+Server-Timing: origin; dur=122
+Server-Timing: ak_p; desc="1765157371974_34899011_905015320_16221_8560_29_0_15";dur=1
+
+{"games":[{"image":"/assets/images/products/evolution/bac_bo.webp","name":"Bac Bo","slug":"bacbo","providerId":21,"gameId":55100,"providerName":"Evolution","providerSlug":"evolution","raiting":41.0,"hasDemo":false,"jackpot":false,"rtp":98.87},{"image":"/assets/images/products/pragmaticplay/brazilian_roulette.webp","name":"Roleta Brasileira","slug":"brazilianroulettepp","providerId":54,"gameId":2000065,"providerName":"PragmaticPlay","providerSlug":"pragmaticplay","raiting":40.0,"hasDemo":false,"jackpot":false,"rtp":0.00},{"image":"/assets/images/products/ezugi/mega-bola-da-srote.webp","name":"Mega Bola da Sorte","slug":"megaboladasorte1","providerId":21,"gameId":2007309,"providerName":"Evolution","providerSlug":"evolution","raiting":39.0,"hasDemo":false,"jackpot":false,"rtp":97.00},{"image":"/assets/images/products/pragmaticplay/64_-thumbnail-casino-3super-trunfo-_football-blitz-top-card_.webp","name":"Super Trunfo","slug":"super-trunfo","providerId":54,"gameId":2003217,"providerName":"PragmaticPlay","providerSlug":"pragmaticplay","raiting":38.0,"hasDemo":false,"jackpot":false,"rtp":96.27},{"image":"/assets/images/products/evolution/immersive_roulette.webp","name":"Immersive Roulette","slug":"immersiveroulette","providerId":21,"gameId":5108,"providerName":"Evolution","providerSlug":"evolution","raiting":37.0,"hasDemo":false,"jackpot":false,"rtp":97.30},{"image":"/assets/images/products/evolution/lightning_roulette.webp","name":"Lightning Roulette","slug":"lightningroulette","providerId":21,"gameId":5141,"providerName":"Evolution","providerSlug":"evolution","raiting":36.0,"hasDemo":false,"jackpot":false,"rtp":97.30},{"image":"/assets/images/products/pragmaticplay/mega_wheel.webp","name":"Mega Wheel","slug":"live-megawheel","providerId":54,"gameId":24260,"providerName":"PragmaticPlay","providerSlug":"pragmaticplay","raiting":35.0,"hasDemo":false,"jackpot":false,"rtp":96.50},{"image":"/assets/images/products/pragmaticplay/mega_roulette.webp","name":"Mega Roulette","slug":"live-megaroulette","providerId":54,"gameId":24264,"providerName":"PragmaticPlay","providerSlug":"pragmaticplay","raiting":34.0,"hasDemo":false,"jackpot":false,"rtp":97.30},{"image":"/assets/images/products/pragmaticplay/sweet_bonanza_candyland_.webp","name":"Sweet Bonanza CandyLand","slug":"sweetbonanzacandyland","providerId":54,"gameId":54522,"providerName":"PragmaticPlay","providerSlug":"pragmaticplay","raiting":33.0,"hasDemo":false,"jackpot":false,"rtp":91.59},{"image":"/assets/images/products/ezugi/roleta_da_sorte.webp","name":"Roleta da Sorte","slug":"roletadasorte","providerId":5,"gameId":1000372,"providerName":"Ezugi","providerSlug":"ezugi","raiting":32.0,"hasDemo":false,"jackpot":false,"rtp":97.30},{"image":"/assets/images/products/pragmaticplay/snakes_and_ladders_live.webp","name":"Snakes & Ladders Live","slug":"snakesladderslive","providerId":54,"gameId":2001793,"providerName":"PragmaticPlay","providerSlug":"pragmaticplay","raiting":4.0,"hasDemo":false,"jackpot":false,"rtp":96.66},{"image":"/assets/images/products/pragmaticplay/immersive-roulette-deluxe-temp2.jpg","name":"Immersive Roulette Deluxe","slug":"immersive-roulette-deluxe","providerId":54,"gameId":2004323,"providerName":"PragmaticPlay","providerSlug":"pragmaticplay","raiting":2.0,"hasDemo":false,"jackpot":false,"rtp":97.30}],"providers":[{"id":5,"slug":"Ezugi","gamesCount":4,"text":"Ezugi","image":"/assets/images/providers/ezugi.webp"},{"id":54,"slug":"PragmaticPlay","gamesCount":16,"text":"PragmaticPlay","image":"/assets/images/providers/pragmatic_play.webp"},{"id":21,"slug":"Evolution","gamesCount":4,"text":"Evolution","image":"/assets/images/providers/evolution.webp"}],"totalGamesCount":24,"slug":"melhores-jogos-ao-vivo"}
