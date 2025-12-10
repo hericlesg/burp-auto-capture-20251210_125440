@@ -1,0 +1,24 @@
+HTTP/2 200 OK
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Vary: Origin
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Length: 2241
+Expires: Mon, 08 Dec 2025 01:29:31 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Mon, 08 Dec 2025 01:29:31 GMT
+Set-Cookie: AWSALB=ukf7diWKD1QlQZQz4Z3Z1crCCNpms+UpeBe/vvncIBenZ9YYRwlVBXQHoUAKUA0s0pDUoAiIwTuYLoNFfOIP1EO/YV65SHwRn/vkIqFXnaVxX4bT/LfjGbxcA6ci; Expires=Mon, 15 Dec 2025 01:29:31 GMT; Path=/
+Set-Cookie: AWSALBCORS=ukf7diWKD1QlQZQz4Z3Z1crCCNpms+UpeBe/vvncIBenZ9YYRwlVBXQHoUAKUA0s0pDUoAiIwTuYLoNFfOIP1EO/YV65SHwRn/vkIqFXnaVxX4bT/LfjGbxcA6ci; Expires=Mon, 15 Dec 2025 01:29:31 GMT; Path=/; SameSite=None; Secure
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=146
+Server-Timing: origin; dur=54
+Server-Timing: ak_p; desc="1765157371771_34899011_905013907_20112_8769_29_0_15";dur=1
+
+[{"ps":2007916,"pn":"Tigre da Sorte","s":"tigre-da-sorte","prs":"tada","prn":"Tada","bt":"2025-12-08T01:08:14.103Z","p":"GERTRUDES","ba":4.0000,"wa":459.2000,"i":"/assets/images/products/Thumb-TIGREDASORTE-Tada.png","m":114.8},{"ps":2008123,"pn":"Arara da Sorte","s":"arara-da-sorte","prs":"tada","prn":"Tada","bt":"2025-12-08T01:08:56.807Z","p":"Vagner","ba":6.0000,"wa":558.0000,"i":"/assets/images/products/Thumb-AraraDaSorte-(2).webp","m":93.0},{"ps":2004163,"pn":"Fortune Snake","s":"fortunesnake","prs":"pgsoft","prn":"PGSoft","bt":"2025-12-08T01:07:30.44Z","p":"Andreza","ba":0.0000,"wa":1500.0000,"i":"/assets/images/products/Thumb-FortuneSnake.webp"},{"ps":5157,"pn":"Crazy Time","s":"crazytime","prs":"evolution","prn":"Evolution","bt":"2025-12-08T01:06:31.588Z","p":"EDUARDO","ba":45.0000,"wa":2505.0000,"i":"/assets/images/products/evolution/crazy_time.webp","m":55.7},{"ps":2005653,"pn":"Yo Dragon","s":"yodragon","prs":"popok","prn":"PopOk","bt":"2025-12-08T01:05:31.929Z","p":"Tania","ba":24.0000,"wa":1176.0000,"i":"/assets/images/products/Thumb-YoDragon-(1).webp","m":49.0},{"ps":2000055,"pn":"Sugar Monster","s":"sugarmonster","prs":"redtiger","prn":"RedTiger","bt":"2025-12-08T01:06:00.222Z","p":"Cristiane","ba":25.0000,"wa":8277.5000,"i":"/assets/images/products/Thumb-SugarMonster.webp","m":331.1},{"ps":2004792,"pn":"Macaco Sortudo","s":"macacosortudo","prs":"pragmaticplay","prn":"PragmaticPlay","bt":"2025-12-08T01:03:53.627Z","p":"Adriana","ba":5.0000,"wa":525.0000,"i":"/assets/images/products/Thumb-MACACOSORTUDO-Pragmatic.webp","m":105.0},{"ps":2008123,"pn":"Arara da Sorte","s":"arara-da-sorte","prs":"tada","prn":"Tada","bt":"2025-12-08T01:04:35.242Z","p":"JOSE","ba":4.5000,"wa":984.0000,"i":"/assets/images/products/Thumb-AraraDaSorte-(2).webp","m":218.7},{"ps":2006677,"pn":"Barbarossa","s":"barbarossa","prs":"peterandsons","prn":"Peter and Sons","bt":"2025-12-08T01:00:59.793Z","p":"Weverton","ba":1.0000,"wa":589.3000,"i":"/assets/images/products/Thumb-BARBAROSSA-PeterSons.webp","m":589.3},{"ps":2004163,"pn":"Fortune Snake","s":"fortunesnake","prs":"pgsoft","prn":"PGSoft","bt":"2025-12-08T01:03:17.812Z","p":"Jeferson","ba":0.0000,"wa":1500.0000,"i":"/assets/images/products/Thumb-FortuneSnake.webp"}]
