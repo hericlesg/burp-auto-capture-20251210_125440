@@ -1,0 +1,24 @@
+HTTP/2 200 OK
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Vary: Origin
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Length: 1818
+Expires: Mon, 08 Dec 2025 01:29:52 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Mon, 08 Dec 2025 01:29:52 GMT
+Set-Cookie: AWSALB=uyaYw9Pxt3CuNbdcMYnq2YzNLPUloo3O3tEEMxQy56zLdtfxY5YxmGYQp24euwxXUZRen5RrTYvh8DWka0+dJtgBblKd/SvA4R9h8ipBYKmSok7X1B8zV3tRTcDQ; Expires=Mon, 15 Dec 2025 01:29:52 GMT; Path=/
+Set-Cookie: AWSALBCORS=uyaYw9Pxt3CuNbdcMYnq2YzNLPUloo3O3tEEMxQy56zLdtfxY5YxmGYQp24euwxXUZRen5RrTYvh8DWka0+dJtgBblKd/SvA4R9h8ipBYKmSok7X1B8zV3tRTcDQ; Expires=Mon, 15 Dec 2025 01:29:52 GMT; Path=/; SameSite=None; Secure
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=10
+Server-Timing: origin; dur=138
+Server-Timing: ak_p; desc="1765157392124_34899011_905159497_14838_8976_34_0_15";dur=1
+
+{"id":8909131,"email":"bruno.1765073633048348.684@yahoo.com.br","isEmailVerified":false,"currencyId":"BRL","userName":"U8909131","partnerId":180,"regionId":5186,"cityId":0,"countryId":716,"gender":0,"genderName":"-","birthDate":"1970-12-23T00:00:00","firstName":"Rosa","lastName":"Cleide Francisco Dos Santos","nickName":"","documentNumber":"","phoneNumber":"+5594953292580","documentIssuedBy":"","address":" 10 R IATECA ","mobileNumber":"+5594953292580","isMobileNumberVerified":false,"languageId":"pt","registrationIp":"201.42.40.45","creationTime":"2025-12-07T02:13:58.552Z","lastUpdateTime":"0001-01-01T00:00:00","token":"zEwD2CS2oOVtBpXd33Em%2f3i9lFiYWuoViXIamibbTbvGRWlb%2bCf4qSE0Fka65KlenM0PzD%2f8%2fXvbzWSeTqPfJQ%3d%3d","emailOrMobile":null,"sendMail":true,"sendSms":true,"callToPhone":false,"sendPromotions":true,"isDocumentVerified":false,"kYCDocsStatus":0,"kYCStatus":0,"zipCode":"05833150","info":null,"categoryId":1,"categoryName":null,"welcomeBonusActivationKey":null,"citizenship":null,"citizenshipName":"","jobArea":null,"currencySymbol":"R$ ","lastLogin":null,"lastLogout":null,"lastLoginIp":null,"resetPassword":false,"resetNickName":null,"acceptTermsConditions":false,"documentExpirationStatus":null,"ad":null,"adm":null,"timeZone":0.0,"taxNumber":"14758424810","street":null,"streetNumber":null,"complement":null,"referralCode":"vchZWeCs3YiqsSKTWkVC","isReferralBlocked":false,"successfulDepositCount":0,"loginType":0,"isWithdrawalsBlocked":false,"deposits":null,"offerId":null,"offerTranslation":null,"offerDescriptionTranslation":null,"isUserUnsubscribe":false,"postRegistrationCompleted":false,"activityStatus":0,"requiredVerifications":[],"cityName":"SAO PAULO","isTest":false,"district":null,"pendingLegalDocuments":[],"referFriendActive":false,"isSelfExcluded":false,"regulationMessage":null}
