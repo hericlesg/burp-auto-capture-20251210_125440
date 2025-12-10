@@ -1,0 +1,391 @@
+{
+  "capture_timestamp": "20251210_125610", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_001.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/region?typeId=5", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_001.txt", 
+      "timestamp": 1765067815402
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_002.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/games/seometadata?path=/", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_002.txt", 
+      "timestamp": 1765067815427
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_003.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/registration/flow", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_003.txt", 
+      "timestamp": 1765067815445
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_004.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/client/legal-document/latest", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_004.txt", 
+      "timestamp": 1765067815582
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_005.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/registration/update-step", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_005.txt", 
+      "timestamp": 1765067838113
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_006.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/registration/update-step", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_006.txt", 
+      "timestamp": 1765067886528
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_007.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/registration/update-step", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_007.txt", 
+      "timestamp": 1765067922664
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_008.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/games/seometadata?path=/(middle-drawer:sign-up-success)", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_008.txt", 
+      "timestamp": 1765067950854
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_009.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/games/seometadata?path=/", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_009.txt", 
+      "timestamp": 1765067950954
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_010.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/registration/login-client", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_010.txt", 
+      "timestamp": 1765157234622
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_011.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/basehub/negotiate?languageId=pt&negotiateVersion=1", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_011.txt", 
+      "timestamp": 1765157277165
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_012.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/gateway/config", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_012.txt", 
+      "timestamp": 1765157282451
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_013.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/client/client-by-token?languageId=undefined&token=zEwD2CS2oOVtBpXd33Em%252f8PNWG8iQAzdFA%252bKRlsMerVV8iV50S6NWexzpdahTbuBz2MRSegyMAnEiLjEKKJOkw%253d%253d&timeZone=-3", 
+      "sequence_number": 13, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_013.txt", 
+      "timestamp": 1765157285238
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_014.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/basehub/negotiate?languageId=pt&negotiateVersion=1", 
+      "sequence_number": 14, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_014.txt", 
+      "timestamp": 1765157333672
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_015.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/banners?languageId=pt&page=6&LanguageId=pt&TimeZone=-3", 
+      "sequence_number": 15, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_015.txt", 
+      "timestamp": 1765157333751
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_016.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/bets/topwinners?languageId=pt&time=month&LanguageId=pt&TimeZone=-3", 
+      "sequence_number": 16, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_016.txt", 
+      "timestamp": 1765157333774
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_017.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/bets/lucky?languageId=pt&LanguageId=pt&TimeZone=-3", 
+      "sequence_number": 17, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_017.txt", 
+      "timestamp": 1765157333943
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_018.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/registration/login-client", 
+      "sequence_number": 18, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_018.txt", 
+      "timestamp": 1765157355031
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_019.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/gateway/config", 
+      "sequence_number": 19, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_019.txt", 
+      "timestamp": 1765157361520
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_020.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/basehub?languageId=pt&id=5okPOS4ccVUynhyaWGMQog", 
+      "sequence_number": 20, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_020.txt", 
+      "timestamp": 1765157363143
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_021.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/gateway/get-combined-settings?languageId=pt", 
+      "sequence_number": 21, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_021.txt", 
+      "timestamp": 1765157365013
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_022.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/page-builder?page=0&languageId=pt", 
+      "sequence_number": 22, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_022.txt", 
+      "timestamp": 1765157368222
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_023.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/basehub/negotiate?languageId=pt&negotiateVersion=1", 
+      "sequence_number": 23, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_023.txt", 
+      "timestamp": 1765157368305
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_024.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/banners?languageId=pt&page=6&LanguageId=pt&TimeZone=-3", 
+      "sequence_number": 24, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_024.txt", 
+      "timestamp": 1765157371903
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_025.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/bets/topwinners?languageId=pt&time=month&LanguageId=pt&TimeZone=-3", 
+      "sequence_number": 25, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_025.txt", 
+      "timestamp": 1765157371943
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_026.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/basehub?languageId=pt&id=HV9pHOmrEzc7BGPmYXa2uA", 
+      "sequence_number": 26, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_026.txt", 
+      "timestamp": 1765157371985
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_027.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/games/seometadata?path=/", 
+      "sequence_number": 27, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_027.txt", 
+      "timestamp": 1765157372015
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_028.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/bets/lucky?languageId=pt&LanguageId=pt&TimeZone=-3", 
+      "sequence_number": 28, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_028.txt", 
+      "timestamp": 1765157372016
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_029.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/homepage-product-link?languageId=pt&TimeZone=0", 
+      "sequence_number": 29, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_029.txt", 
+      "timestamp": 1765157372078
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_030.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/games/getgamesbyslug?slug=mais-jogados-da-semana&count=12&languageId=pt&sort=desc&fromIndex=0", 
+      "sequence_number": 30, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_030.txt", 
+      "timestamp": 1765157372086
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_031.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/banners?languageId=pt&page=6&type=3", 
+      "sequence_number": 31, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_031.txt", 
+      "timestamp": 1765157372110
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_032.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/games/getgamesbyslug?slug=jogos-da-semana&count=12&languageId=pt&sort=desc&fromIndex=0", 
+      "sequence_number": 32, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_032.txt", 
+      "timestamp": 1765157372110
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_033.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/games/getgamesbyslug?slug=melhores-jogos-ao-vivo&count=12&languageId=pt&sort=desc&fromIndex=0", 
+      "sequence_number": 33, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_033.txt", 
+      "timestamp": 1765157372180
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_034.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/games/getgamesbyslug?slug=melhores-roletas&count=12&languageId=pt&sort=desc&fromIndex=0", 
+      "sequence_number": 34, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_034.txt", 
+      "timestamp": 1765157372182
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_035.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/games/tags?slug=casino&languageId=pt", 
+      "sequence_number": 35, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_035.txt", 
+      "timestamp": 1765157372183
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_036.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/games/getgamesbyslug?slug=jogos-da-deo&count=20&languageId=pt&sort=desc&fromIndex=0", 
+      "sequence_number": 36, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_036.txt", 
+      "timestamp": 1765157372269
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_037.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/games/getgamesbyslug?slug=jogos-vip&count=12&languageId=pt&sort=desc&fromIndex=0", 
+      "sequence_number": 37, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_037.txt", 
+      "timestamp": 1765157372311
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_038.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/footer?languageId=pt", 
+      "sequence_number": 38, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_038.txt", 
+      "timestamp": 1765157372555
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_039.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/games/getgamesbyslug?slug=jogos-da-semana&count=12&languageId=pt&sort=desc&fromIndex=0", 
+      "sequence_number": 39, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_039.txt", 
+      "timestamp": 1765157375712
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_040.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/registration/login-client", 
+      "sequence_number": 40, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_040.txt", 
+      "timestamp": 1765157380036
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_041.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/basehub/negotiate?languageId=pt&negotiateVersion=1", 
+      "sequence_number": 41, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_041.txt", 
+      "timestamp": 1765157384299
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_042.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/gateway/config", 
+      "sequence_number": 42, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_042.txt", 
+      "timestamp": 1765157388199
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_043.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/client/client-by-token?languageId=undefined&token=zEwD2CS2oOVtBpXd33Em%252f3i9lFiYWuoViXIamibbTbvGRWlb%252bCf4qSE0Fka65KlenM0PzD%252f8%252fXvbzWSeTqPfJQ%253d%253d&timeZone=-3", 
+      "sequence_number": 43, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_043.txt", 
+      "timestamp": 1765157392323
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_044.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/gateway/config", 
+      "sequence_number": 44, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_044.txt", 
+      "timestamp": 1765157400165
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_045.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/client/client-by-token?languageId=undefined&token=zEwD2CS2oOVtBpXd33Em%252f3i9lFiYWuoViXIamibbTbvGRWlb%252bCf4qSE0Fka65KlenM0PzD%252f8%252fXvbzWSeTqPfJQ%253d%253d&timeZone=-3", 
+      "sequence_number": 45, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_045.txt", 
+      "timestamp": 1765157404257
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_046.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/gateway/get-combined-settings?languageId=pt&token=zEwD2CS2oOVtBpXd33Em%252f3i9lFiYWuoViXIamibbTbvGRWlb%252bCf4qSE0Fka65KlenM0PzD%252f8%252fXvbzWSeTqPfJQ%253d%253d&clientId=8909131", 
+      "sequence_number": 46, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_046.txt", 
+      "timestamp": 1765157459438
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_047.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/api/registration/login-client", 
+      "sequence_number": 47, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_047.txt", 
+      "timestamp": 1765382105124
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/request_048.txt", 
+      "url": "https://zeroum-api.zeroum.bet:443/basehub/negotiate?languageId=pt&negotiateVersion=1", 
+      "sequence_number": 48, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.bet_20251210_125610/response_048.txt", 
+      "timestamp": 1765382140230
+    }
+  ], 
+  "host": "zeroum-api.zeroum.bet", 
+  "total_requests": 48
+}
