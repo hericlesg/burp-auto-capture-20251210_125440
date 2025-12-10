@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20251210_125543", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/gravity-service.n10.xyz_20251210_125543/request_001.txt", 
+      "url": "https://gravity-service.n10.xyz:443/?retrieve=www.zeroum.bet", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/gravity-service.n10.xyz_20251210_125543/response_001.txt", 
+      "timestamp": 1765157334310
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/gravity-service.n10.xyz_20251210_125543/request_002.txt", 
+      "url": "https://gravity-service.n10.xyz:443/?retrieve=www.zeroum.bet", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/gravity-service.n10.xyz_20251210_125543/response_002.txt", 
+      "timestamp": 1765157372194
+    }
+  ], 
+  "host": "gravity-service.n10.xyz", 
+  "total_requests": 2
+}
